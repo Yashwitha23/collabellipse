@@ -1,7 +1,7 @@
 package movie;
 
 import java.awt.EventQueue;
-
+//fsdag46rtfrtgf
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
